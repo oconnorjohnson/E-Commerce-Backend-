@@ -1,2 +1,2 @@
-# Object-Relational-Mapping-E-Commerce-Back-End
+# E-Commerce-Backend
 A mock-E-Commerce website backend utilizing Express.js, Sequelize and MySQL.
